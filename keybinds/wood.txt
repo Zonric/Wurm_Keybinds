@@ -1,0 +1,5 @@
+bind X CUT_DOWN
+bind C CHOP_UP
+bind V PICK_SPROUT
+
+bind CTRL+V PRUNE

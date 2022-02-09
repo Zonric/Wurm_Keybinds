@@ -1,0 +1,2 @@
+bind C "act 1077 hover"
+bind V "act 1432 hover"

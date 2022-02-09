@@ -1,0 +1,2 @@
+exec keybinds/base.txt
+tp enable

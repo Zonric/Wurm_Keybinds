@@ -1,0 +1,140 @@
+//
+// Zonric's Keybinds
+// SPECIAL KEYS:
+// Alt+ Ctrl+ Shift+
+//
+//1077 1432
+
+bind 1 ACTIVATE_TOOL1
+bind 2 ACTIVATE_TOOL2
+bind 3 ACTIVATE_TOOL3
+bind 4 ACTIVATE_TOOL4
+bind 5 ACTIVATE_TOOL5
+bind 6 ACTIVATE_TOOL6
+bind 7 ACTIVATE_TOOL7
+bind 8 ACTIVATE_TOOL8
+bind 9 ACTIVATE_TOOL9
+bind 0 ACTIVATE_TOOL10
+bind CTRL+1 LOAD_TOOLBELT1
+bind CTRL+2 LOAD_TOOLBELT2
+bind CTRL+3 LOAD_TOOLBELT3
+bind CTRL+4 LOAD_TOOLBELT4
+bind CTRL+5 LOAD_TOOLBELT5
+bind CTRL+6 LOAD_TOOLBELT6
+bind CTRL+7 LOAD_TOOLBELT7
+bind CTRL+8 LOAD_TOOLBELT8
+bind CTRL+9 LOAD_TOOLBELT9
+bind CTRL+0 LOAD_TOOLBELT10
+bind CTRL+SHIFT+1 SAVE_TOOLBELT1
+bind CTRL+SHIFT+2 SAVE_TOOLBELT2
+bind CTRL+SHIFT+3 SAVE_TOOLBELT3
+bind CTRL+SHIFT+4 SAVE_TOOLBELT4
+bind CTRL+SHIFT+5 SAVE_TOOLBELT5
+bind CTRL+SHIFT+6 SAVE_TOOLBELT6
+bind CTRL+SHIFT+7 SAVE_TOOLBELT7
+bind CTRL+SHIFT+8 SAVE_TOOLBELT8
+bind CTRL+SHIFT+9 SAVE_TOOLBELT9
+bind CTRL+SHIFT+0 SAVE_TOOLBELT10
+
+bind A MOVE_LEFT
+bind B TOGGLE_CRAFTING
+bind C CHOP_UP
+bind D MOVE_RIGHT
+bind E OPEN
+bind F EMBARK_DRIVER
+bind G DIG
+bind H "toggle wikisearch"
+bind I "toggle inventory"
+bind J "toggle journal"
+bind K "toggle skills"
+bind L
+bind M MINE_FORWARD
+bind N PROSPECT
+bind O
+bind P
+bind Q TOGGLE_CHARACTER
+bind R ADD_TO_CRAFTING_WINDOW
+bind S MOVE_BACK
+bind T TAKE
+bind U IMPROVE
+bind V
+bind W MOVE_FORWARD
+bind X CUT_DOWN
+bind Y REPAIR
+bind Z
+
+bind CTRL+E TURN_CLOCKWISE
+bind CTRL+F DISEMBARK
+bind CTRL+Q TURN_COUNTERCLOCKWISE
+bind CTRL+R AUTORUN
+bind CTRL+S PULL
+bind CTRL+T DROP
+bind CTRL+W PUSH
+
+bind CTRL+SHIFT+S PULL_GENTLY
+bind CTRL+SHIFT+W PUSH_GENTLY
+
+bind ENTER TOGGLE_CHAT
+bind SLASH "scan champion |%forestgiant |%trollking |%goblinleader |%creatures/kyklops !corpse !preserved !pet &hostile @white %creatures/ &hostile !pet !corpse !preserved @pink zonric |frostback @green"
+bind PERIOD "scan"
+// Alc/Mix (making healing covers)
+bind BACKSLASH "act 283 hover"
+
+bind INSERT STRAFE
+bind HOME
+bind PAGE_UP "tp set-zoom 3"
+// bind DELETE
+bind END "tp toggle"
+bind PAGE_DOWN "tp set-zoom 1"
+
+bind UP "tp zoom-in"
+bind DOWN "tp zoom-out"
+bind LEFT
+bind RIGHT
+
+bind ESCAPE STOP_OR_MAIN_MENU
+bind SUBTRACT DEFEND_LOWER
+bind TAB NEXT_TAB
+
+bind CTRL+TAB NEXT_WINDOW
+
+bind SHIFT+TAB PREVIOUS_TAB
+
+bind CTRL+SHIFT+TAB PREVIOUS_WINDOW
+
+bind F1 "toggle console"
+bind F2 "exec keybinds/terraform.txt"
+bind F3 "exec keybinds/wood.txt"
+bind F4 "exec keybinds/farm.txt"
+bind F5 "exec keybinds/fight.txt"
+bind F6
+bind F7
+bind F8
+bind F9
+bind F10
+bind F11
+bind F12 "exec keybinds/base.txt"
+
+bind NUMPAD0 FOCUS
+bind NUMPAD1 "togglesky"
+bind NUMPAD2 "togglegrass"
+bind NUMPAD3 "toggletrees"
+bind NUMPAD4 "togglecave"
+bind NUMPAD5 FISH
+bind NUMPAD6
+bind NUMPAD7
+bind NUMPAD8
+bind NUMPAD9
+
+bind ADD DEFEND_RIGHT
+bind DECIMAL SHIELD_BASH
+bind DIVIDE DEFEND_LEFT
+bind MULTIPLY DEFEND_UPPER
+
+bind W MOVE_FORWARD
+bind A MOVE_LEFT
+bind S MOVE_BACK
+bind D MOVE_RIGHT
+
+bind U improve
+bind Y repair
