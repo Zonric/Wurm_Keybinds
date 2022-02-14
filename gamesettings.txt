@@ -1,5 +1,5 @@
 #Wurm Unlimited client properties
-#Wed Feb 09 10:34:41 EST 2022
+#Sun Feb 13 22:07:50 EST 2022
 show_body_in_inventory=false
 enable_contribution_culling=false
 sound_cache_enabled=true

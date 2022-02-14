@@ -1,12 +1,13 @@
-bind X CULTIVATE
+//bind X CULTIVATE
 
-// Farm -- 3x3 962 | 5x5 963
-bind C "act 962 hover"
+// Farm -- 3x3 962 | 5x5 963 | 7x7 964
+bind X "act 963 hover"
 
-// Harvest            -- 3x3 965 | 5x5 966
-// Harvest & Replant  -- 3x3 968 | 5x5 969
-bind V "act 968 hover"
+// Harvest            -- 3x3 965 | 5x5 966 | 7x7 967
+// Harvest & Replant  -- 3x3 968 | 5x5 969 | 7x7 970
+bind C "act 968 hover"
 
 bind CTRL+X GROOM
 bind CTRL+C FEED
+
 bind CTRL+V SOW

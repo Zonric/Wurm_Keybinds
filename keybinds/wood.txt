@@ -1,5 +1,7 @@
+// @nearby act  CUT_DOWN 96
+//chopup 97
 bind X CUT_DOWN
-bind C CHOP_UP
+bind C "act 97 @nearby4"
 bind V PICK_SPROUT
 
 bind CTRL+V PRUNE
