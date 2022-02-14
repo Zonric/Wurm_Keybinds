@@ -38,7 +38,7 @@ bind CTRL+SHIFT+0 SAVE_TOOLBELT10
 
 bind A MOVE_LEFT
 bind B TOGGLE_CRAFTING
-// Used by "ACTION" binds - bind C ""
+//bind C // Used by "ACTION" binds
 bind D MOVE_RIGHT
 bind E OPEN
 bind F EMBARK_DRIVER
@@ -49,21 +49,20 @@ bind I "toggle inventory"
 bind J "act 276 hover"
 // Cast WOA
 bind K "act 279 hover"
+// Cast Light Token
 bind L "act 421 hover"
 bind M MINE_FORWARD
 bind N PROSPECT
-bind O ""
 bind P PRAY
 bind Q TOGGLE_CHARACTER
 bind R ADD_TO_CRAFTING_WINDOW
 bind S MOVE_BACK
 bind T TAKE
 bind U IMPROVE
-// Used by "ACTION" binds - bind V ""
+//bind V // Used by "ACTION" binds
 bind W MOVE_FORWARD
-// Used by "ACTION" binds - bind X ""
+//bind X // Used by "ACTION" binds
 bind Y REPAIR
-bind Z
 
 bind CTRL+E TURN_CLOCKWISE
 bind CTRL+F DISEMBARK
@@ -111,12 +110,6 @@ bind F2 "exec keybinds/terraform.txt"
 bind F3 "exec keybinds/wood.txt"
 bind F4 "exec keybinds/farm.txt"
 bind F5 "exec keybinds/fight.txt"
-bind F6
-bind F7
-bind F8
-bind F9
-bind F10
-bind F11
 bind F12 "exec keybinds/base.txt"
 
 bind NUMPAD0 FOCUS
@@ -125,10 +118,6 @@ bind NUMPAD2 "togglegrass"
 bind NUMPAD3 "toggletrees"
 bind NUMPAD4 "togglecave"
 bind NUMPAD5 FISH
-bind NUMPAD6
-bind NUMPAD7
-bind NUMPAD8
-bind NUMPAD9
 
 bind ADD DEFEND_RIGHT
 bind DECIMAL SHIELD_BASH
