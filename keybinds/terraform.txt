@@ -6,6 +6,7 @@ bind CTRL+X FLATTEN_BORDER
 bind CTRL+C DREDGE
 bind CTRL+V PAVE
 
-bind SHIFT+X MINE_TUNNEL
-bind SHIFT+C MINE_UP
-bind SHIFT+V MINE_DOWN
+//bind SHIFT+X 
+//bind SHIFT+C 
+// Destroy Pavement
+bind SHIFT+V "act 191 hover"
